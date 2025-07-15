@@ -6,7 +6,7 @@
 
 <!-- <img width="100%" src="./assets/voidstroke_banner.jpg"> -->
 
-<img width="100%" src="./assets/voidstroke_banner_w.jpg">
+<img width="100%" src="./assets/voidstroke_banner_w.png">
 
 <!--
 **V0idVanguard/V0idVanguard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
